@@ -9,7 +9,8 @@ Written by Johannes Lundberg.
 
 ## Getting started
 
-    $ git checkout https://github.com/Hack46/openttd-tweaker
+    $ git clone https://github.com/Hack46/openttd-tweaker
+    $ cd openttd-tweaker
     $ ./openttd-tweaker debug test.scn
 
     openttd-tweaker.. yay, let's go! :-)
