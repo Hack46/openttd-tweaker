@@ -28,7 +28,7 @@ Written by Johannes Lundberg.
 
 Projects know to be using openttd-tweaker:
 
-[OpenTTD-Sweden](https://https://github.com/Hack46/OpenTTD-Sweden) - Visualisation of public transporation in Sweden
+[OpenTTD-Sweden](https://github.com/Hack46/OpenTTD-Sweden) - Visualisation of public transporation in Sweden
 
 ## TODO
 
