@@ -25,6 +25,10 @@ Written by Johannes Lundberg.
     ...
 
 
+## Philosophy
+
+Focused has been put on creating completely new scenarios, rather than being an optimal tool to programatically modifiy your legacy scenarios - hence the slow and not feature-complete path going from SCN to JSON and back again to SCN.
+
 ## Projects
 
 Projects know to be using openttd-tweaker:
@@ -36,6 +40,7 @@ Projects know to be using openttd-tweaker:
 - [ ] Decompress SCN scenario files with LZMA from OTTX to OTTN
 - [ ] Scenario chunk loading
 - [ ] Map parsing (MAPT, MAPH, MAPO, M3LO, M3HI, MAP5, MAPE, MAP7)
+- [ ] Coordination system translation (from OpenTTD top-SW to JSON top-SE)
 - [ ] Debug command
 - [ ] Debug statistics
 - [ ] Scenario saving
